@@ -762,6 +762,9 @@ header.active {
         flex: none;
         width: 100%;
     }
+    .photos__image {
+        width: 100%;
+    }
 }
 
    
